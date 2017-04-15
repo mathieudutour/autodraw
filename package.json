@@ -1,0 +1,29 @@
+{
+  "name": "autodraw",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathieudutour/autodraw.git"
+  },
+  "keywords": [
+    "autodraw",
+    "API"
+  ],
+  "author": "Mathieu Dutour <mathieu@dutour.me> (http://mathieu.dutour.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathieudutour/autodraw/issues"
+  },
+  "homepage": "https://github.com/mathieudutour/autodraw#readme",
+  "dependencies": {
+    "axios": "^0.16.1"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}
