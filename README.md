@@ -43,3 +43,8 @@ autodraw(shapes).then(results => {
 
 MIT
 
+## Credits
+
+A.I. Powerhouse provided by autodraw.com and A.I. Experiments by Google.
+This project is just a small wrapper to use the experiment programmatically.
+
